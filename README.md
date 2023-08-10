@@ -1,6 +1,4 @@
 Application (c)2021-2023 created by Zappadoc For Linux Audio Foundation.
-ic_launcher_512
-android_logo-150x150
 
 A powerful and easy to use Android app to control your ROTEL audiophile devices is available for download.
 System And Hardware Requirements
@@ -22,8 +20,9 @@ Before running the app on your Android smartphone/tablet (version 10 or greater)
 
 The app will discover automatically your pre-amp only if the device is reachable on your local/Home network. If your HIFI device is not found, check your configuration and restart app to re-scan or enter the IP address and port manually (port should be 9590 for ROTEL or 9596 for MICHI).
 
-
 Happy user want to make a donation to help our foundation, send your Paypal donation to foundation at linuxaudiofoundation dot org (or click the button below). Contact us for more info.
+
+'https://linuxaudiofoundation.org/rotel-remote-control/)
 
 TERMS AND CONDITIONS OF USES
 
