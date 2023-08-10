@@ -13,12 +13,6 @@ MICHI Audio Hardware Supported (2022-06)
 MICHI X5, X3, P5, S5, M8
 
 Feel free to send your feedback, constructive comment and report are always welcome and appreciated (see the About page).
-Download MICHI Remote Control For Android
-DOWNLOAD APK
-
-Alternate download zip archive to extract:
-DOWNLOAD ZIP
-
 
 Getting Started with MICHI Remote Control
 
@@ -30,8 +24,9 @@ Before running the app on your Android smartphone/tablet (version 10 or greater)
 
 The app will discover automatically your pre-amp only if the device is reachable on your local/Home network. If your HIFI device is not found, check your configuration and restart app to re-scan or enter the IP address and port manually (port should be 9590 for ROTEL or 9596 for MICHI).
 
-
 Happy user want to make a donation to help our foundation, send your Paypal donation to foundation at linuxaudiofoundation dot org (or click the button below). Contact us for more info.
+
+https://linuxaudiofoundation.org/rotel-remote-control/
 
 TERMS AND CONDITIONS OF USES
 
