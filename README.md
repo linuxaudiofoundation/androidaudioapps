@@ -11,12 +11,6 @@ ROTEL Audio Hardware Supported (2022-06)
 RC-1590MKII, RC-1572MKII, RA-1592MKII, RA-1572MKII, A14, A14MKII (Rotel Link is also supported to manage CD player and tuner from your integrated amp or preamp).
 
 Feel free to send your feedback, constructive comment and report are always welcome and appreciated (see the About page).
-Download ROTEL Remote Control For Android
-DOWNLOAD APK
-
-Alternate download zip archive to extract:
-DOWNLOAD ZIP
-
 
 Getting Started with ROTEL Remote Control
 
