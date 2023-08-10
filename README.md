@@ -26,7 +26,7 @@ The app will discover automatically your pre-amp only if the device is reachable
 
 Happy user want to make a donation to help our foundation, send your Paypal donation to foundation at linuxaudiofoundation dot org (or click the button below). Contact us for more info.
 
-https://linuxaudiofoundation.org/rotel-remote-control/
+(https://linuxaudiofoundation.org/rotel-remote-control/)
 
 TERMS AND CONDITIONS OF USES
 
