@@ -1,7 +1,7 @@
-**ROTEL Remote Control (Android App)**
+**ROTEL AND MICHI Remote Control (Android App)**
 
-A powerful and easy to use Android app to control your ROTEL audiophile devices is available for download.
-
+A powerful and easy to use Android app to control your ROTEL (and MICHI) audiophile devices is available for download.
+[Visit the website for more info...](https://linuxaudiofoundation.org/rotel-remote-control/)
 
 
 **System And Hardware Requirements**
